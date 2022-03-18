@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "293328539470",
+    "firebase_url": "https://bit-events.firebaseio.com",
+    "project_id": "bit-events",
+    "storage_bucket": "bit-events.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:293328539470:android:f46f68517bb5060bf9981f",
+        "android_client_info": {
+          "package_name": "com.example.text_weight_bar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "293328539470-1vho7gvo158f6figa35n1aiuo0iftbld.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.text_weight_bar",
+            "certificate_hash": "7269edbda2305053d24f62a18e65bd58eb9cbb20"
+          }
+        },
+        {
+          "client_id": "293328539470-9si0h9ce4s1vjafikf43k6989eia90ve.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARVMTLoCLgoNp9nSaml81wXQjeOeeeuds"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "293328539470-9si0h9ce4s1vjafikf43k6989eia90ve.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
